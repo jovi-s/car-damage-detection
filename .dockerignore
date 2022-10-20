@@ -1,0 +1,10 @@
+data/img/
+data/train/
+data/val/
+notebooks/
+src/__pycache__/
+src/coco_eval.py
+src/coco_utils.py
+src/engine.py
+src/utils.py
+src/visualize.py
